@@ -1,4 +1,3 @@
-### challenge
 Easy leaks
 
 ---

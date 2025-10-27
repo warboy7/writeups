@@ -1,4 +1,3 @@
-### challenge
 Just unzip the archive ... several times ...
 
 ---
