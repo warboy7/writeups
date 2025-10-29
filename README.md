@@ -1,1 +1,0 @@
-my writeups for security ctf challenges and other labs.
